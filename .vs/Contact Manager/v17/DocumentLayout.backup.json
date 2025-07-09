@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\contactlistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\contactlistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\contact manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\contact manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|c:\\users\\sankarapandian.g\\desktop\\contact manager\\contact manager\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA29D73-F195-4BF5-B170-65E03F90ED15}|Contact Manager\\Contact Manager.csproj|solutionrelative:contact manager\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Utilities.cs",
+              "RelativeDocumentMoniker": "Contact Manager\\Utilities.cs",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Utilities.cs*",
+              "RelativeToolTip": "Contact Manager\\Utilities.cs*",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswLwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:56:57.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\ContactData.cs",
+              "RelativeDocumentMoniker": "Contact Manager\\ContactData.cs",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\ContactData.cs",
+              "RelativeToolTip": "Contact Manager\\ContactData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:31:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactListData.cs",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\ContactListData.cs",
+              "RelativeDocumentMoniker": "Contact Manager\\ContactListData.cs",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\ContactListData.cs",
+              "RelativeToolTip": "Contact Manager\\ContactListData.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:06:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact Manager",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Contact Manager.csproj",
+              "RelativeDocumentMoniker": "Contact Manager\\Contact Manager.csproj",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Contact Manager.csproj*",
+              "RelativeToolTip": "Contact Manager\\Contact Manager.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T11:56:36.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Contact Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Program.cs",
+              "RelativeToolTip": "Contact Manager\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:29:11.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Services.cs",
+              "RelativeDocumentMoniker": "Contact Manager\\Services.cs",
+              "ToolTip": "C:\\Users\\sankarapandian.g\\Desktop\\Contact Manager\\Contact Manager\\Services.cs*",
+              "RelativeToolTip": "Contact Manager\\Services.cs*",
+              "ViewState": "AgIAAK0AAAAAAAAAAADgv7oAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:11:42.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
